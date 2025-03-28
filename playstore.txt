@@ -1,0 +1,30 @@
+# Title: Play Store Blocklist
+# Description: Bloquea dominios relacionados con Google Play Store y sus servicios asociados.
+# Homepage: https://play.google.com
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 28 Mar 2025
+# Version: 2025.0328.1530.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 20+
+
+||play.google.com^
+||www.play.google.com^
+||android.clients.google.com^
+||play.googleapis.com^
+||clients2.google.com^
+||play.googleapis.com^
+||googleusercontent.com^
+||play-lh.googleusercontent.com^
+||lh3.googleusercontent.com^
+||ssl.gstatic.com^
+||play.googleusercontent.com^
+||ssl.google-analytics.com^
+||storage.googleapis.com^
+||play.google.com^
+||play-pa.googleapis.com^
+||gg.google.com^
+||play.gdl.l.google.com^
+||android.googleapis.com^
+||play.a.googleusercontent.com^
+||android.corp.google.com^
