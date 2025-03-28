@@ -1,0 +1,47 @@
+# Title: OnlyFans and Adult Content Blocklist
+# Description: Bloquea dominios relacionados con OnlyFans y sitios web similares de contenido para adultos.
+# Homepage: https://www.onlyfans.com
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 28 Mar 2025
+# Version: 2025.0328.1530.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 30+
+
+||onlyfans.com^
+||www.onlyfans.com^
+||onlyfans.net^
+||www.onlyfans.net^
+||onlyfans.tv^
+||www.onlyfans.tv^
+||of.com^
+||www.of.com^
+||onlyfans.club^
+||onlyfans.co^
+||www.onlyfans.co^
+||fanvue.com^
+||www.fanvue.com^
+||fansly.com^
+||www.fansly.com^
+||amateurfans.com^
+||www.amateurfans.com^
+||myfreecams.com^
+||www.myfreecams.com^
+||chaturbate.com^
+||www.chaturbate.com^
+||cammodels.com^
+||www.cammodels.com^
+||stripchat.com^
+||www.stripchat.com^
+||livejasmin.com^
+||www.livejasmin.com^
+||bongaCams.com^
+||www.bongacams.com^
+||flirt4free.com^
+||www.flirt4free.com^
+||streamate.com^
+||www.streamate.com^
+||sex.com^
+||www.sex.com^
+||pornhub.com^
+||www.pornhub.com^
