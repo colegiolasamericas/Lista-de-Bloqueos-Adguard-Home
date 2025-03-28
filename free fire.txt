@@ -1,0 +1,29 @@
+# Title: Free Fire Blocklist
+# Description: Bloquea dominios relacionados con Free Fire y sus servicios asociados.
+# Homepage: https://www.freefire.com
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 28 Mar 2025
+# Version: 2025.0328.1530.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 20+
+
+||freefire.com^
+||www.freefire.com^
+||ff.garena.com^
+||ffmobile.garena.com^
+||api.garena.com^
+||cdn.garena.com^
+||ff-video.garena.com^
+||ff-support.garena.com^
+||gameplay.garena.com^
+||assets.ff.garena.com^
+||garena.com^
+||sg.garena.com^
+||br.garena.com^
+||pvp.garena.com^
+||game.garena.com^
+||freefire.garena.com^
+||forum.garena.com^
+||gamepatch.garena.com^
+||cdn.garena.co^
