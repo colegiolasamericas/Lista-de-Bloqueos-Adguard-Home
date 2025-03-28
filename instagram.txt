@@ -1,0 +1,29 @@
+# Title: Instagram Blocklist
+# Description: Bloquea dominios relacionados con Instagram y sus servicios asociados.
+# Homepage: https://www.instagram.com
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 28 Mar 2025
+# Version: 2025.0328.1530.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 20+
+
+||instagram.com^
+||www.instagram.com^
+||m.instagram.com^
+||i.instagram.com^
+||instagram.fbgcdn.net^
+||scontent.cdninstagram.com^
+||instagramcdn.com^
+||api.instagram.com^
+||www.instagramcdn.com^
+||instagram.ffbcdn.net^
+||instagram-static.com^
+||static.instagram.com^
+||i.instagramcdn.com^
+||media.instagram.com^
+||direct.instagram.com^
+||instagram.fbsbx.com^
+||api.instagramcdn.com^
+||olympic.instagram.com^
+||igcdn-photos-e-a.akamaihd.net^
