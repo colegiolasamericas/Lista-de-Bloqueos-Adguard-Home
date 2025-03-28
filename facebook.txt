@@ -1,0 +1,30 @@
+# Title: Facebook Blocklist
+# Description: Bloquea dominios relacionados con Facebook y sus servicios asociados.
+# Homepage: https://www.facebook.com
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 28 Mar 2025
+# Version: 2025.0328.1530.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 20+
+
+||facebook.com^
+||www.facebook.com^
+||m.facebook.com^
+||touch.facebook.com^
+||fb.com^
+||mobile.facebook.com^
+||graph.facebook.com^
+||scontent.xx.fbcdn.net^
+||platform.facebook.com^
+||web.facebook.com^
+||static.xx.fbcdn.net^
+||connect.facebook.net^
+||scontent-fra3-1.xx.fbcdn.net^
+||video.xx.fbcdn.net^
+||upload.facebook.com^
+||business.facebook.com^
+||l.facebook.com^
+||developers.facebook.com^
+||m.facebook.com^
+||fbcdn.net^
