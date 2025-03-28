@@ -1,0 +1,29 @@
+# Title: TikTok Blocklist
+# Description: Bloquea dominios relacionados con TikTok y sus servicios asociados.
+# Homepage: https://www.tiktok.com
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 28 Mar 2025
+# Version: 2025.0328.1530.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 20+
+
+||tiktok.com^
+||www.tiktok.com^
+||m.tiktok.com^
+||api.tiktok.com^
+||tiktokcdn.com^
+||tiktokv.com^
+||tiktok-static.com^
+||v16m.tiktokcdn.com^
+||v19m.tiktokcdn.com^
+||tiktok-ugc.com^
+||s3.us-east-1.amazonaws.com^
+||p16-sign-va.tiktokcdn.com^
+||p9-sign-va.tiktokcdn.com^
+||p3-sign-va.tiktokcdn.com^
+||tiktokcdn-us.com^
+||tiktokcdn.global^
+||tiktok-ads.com^
+||p16-va.tiktokcdn.com^
+||p17-sign-va.tiktokcdn.com^
