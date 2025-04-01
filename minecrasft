@@ -1,0 +1,20 @@
+# Title: Minecraft Blocklist
+# Description: Bloquea dominios relacionados con Minecraft y sus servicios asociados.
+# Homepage: https://www.minecraft.net
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 01 Apr 2025
+# Version: 2025.0401.1530.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 10+
+
+||minecraft.net^
+||www.minecraft.net^
+||launcher.mojang.com^
+||textures.minecraft.net^
+||minecraftservices.com^
+||api.mojang.com^
+||authserver.mojang.com^
+||sessionserver.mojang.com^
+||minecraft-realm.net^
+||mcasset.cloud^
