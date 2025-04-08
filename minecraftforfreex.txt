@@ -1,0 +1,28 @@
+# Title: MinecraftForFreeX Blocklist
+# Description: Bloquea completamente el dominio minecraftforfreex.com y sus servicios asociados.
+# Homepage: https://minecraftforfreex.com (no recomendado visitar)
+# License: Personal Use
+# Last modified: 2025-04-08
+# Version: 1.0
+# Syntax: Domains (including subdomains)
+
+||minecraftforfreex.com^
+||www.minecraftforfreex.com^
+||download.minecraftforfreex.com^
+||cdn.minecraftforfreex.com^
+||api.minecraftforfreex.com^
+||mail.minecraftforfreex.com^
+||login.minecraftforfreex.com^
+||static.minecraftforfreex.com^
+||assets.minecraftforfreex.com^
+||forum.minecraftforfreex.com^
+||support.minecraftforfreex.com^
+||blog.minecraftforfreex.com^
+||shop.minecraftforfreex.com^
+||stats.minecraftforfreex.com^
+||tracking.minecraftforfreex.com^
+||ads.minecraftforfreex.com^
+||m.minecraftforfreex.com^
+||app.minecraftforfreex.com^
+||beta.minecraftforfreex.com^
+||dev.minecraftforfreex.com^
