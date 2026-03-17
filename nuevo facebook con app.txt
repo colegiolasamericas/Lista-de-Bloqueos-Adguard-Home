@@ -1,0 +1,23 @@
+! --- Dominios principales y móviles ---
+||facebook.com^
+||facebook.net^
+||fb.com^
+||fb.me^
+||fbwat.ch^
+
+! --- Infraestructura y contenido (CDN) ---
+||fbcdn.net^
+||fbsbx.com^
+||fbaddins.com^
+||fbworkmail.com^
+
+! --- Messenger y servicios internos ---
+||messenger.com^
+||m.me^
+
+! --- Telemetría y rastreo (Vital para apps) ---
+||graph.facebook.com^
+||api.facebook.com^
+||star.c10r.facebook.com^
+||edge-mqtt.facebook.com^
+||atlassolutions.com^
