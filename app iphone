@@ -1,0 +1,20 @@
+! --- Bloqueo de la Tienda (Búsquedas y visualización) ---
+||itunes.apple.com^
+||apps.apple.com^
+||appstore.com^
+||itunes.com^
+
+! --- Servidores de descarga de Apps (Corta la descarga real) ---
+||iosapps.itunes.apple.com^
+||osxapps.itunes.apple.com^
+||appldnld.apple.com^
+
+! --- API de comercio y pagos ---
+||buy.itunes.apple.com^
+||p1-buy.itunes.apple.com^
+||p2-buy.itunes.apple.com^
+||p23-buy.itunes.apple.com^
+||play.itunes.apple.com^
+
+! --- Servidores de búsqueda interna ---
+||search.itunes.apple.com^
