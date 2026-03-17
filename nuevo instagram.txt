@@ -1,0 +1,21 @@
+! --- Dominios principales ---
+||instagram.com^
+||ig.me^
+||instagr.am^
+
+! --- Infraestructura de contenido (App) ---
+||cdninstagram.com^
+||fbcdn.net^
+||fbsbx.com^
+||igcdn.com^
+
+! --- API y Telemetría (Corta la conexión de la app) ---
+||i.instagram.com^
+||graph.instagram.com^
+||api.instagram.com^
+||edge-mqtt.facebook.com^
+||logging.instagram.com^
+
+! --- Dominios de respaldo ---
+||static.cdninstagram.com^
+||scontent.cdninstagram.com^
