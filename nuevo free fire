@@ -1,0 +1,22 @@
+! --- Dominios principales de Garena ---
+||garena.com^
+||gvt1.com^
+||garenanow.com^
+
+! --- Servidores de Juego y CDN (Descargas y Skins) ---
+||freefiremobile-a.akamaihd.net^
+||dl.original.freefiremobile.com^
+||dl.dir.freefiremobile.com^
+||common.freefiremobile.com^
+||cdn.fbsbx.com^
+
+! --- Regiones específicas (Latam/Global) ---
+||sg.garena.com^
+||ind.garena.com^
+||usa.garena.com^
+
+! --- Autenticación y Anti-Cheat ---
+||account.garena.com^
+||auth.garena.com^
+||beetalk.com.sg^
+||crashlytics.com^
