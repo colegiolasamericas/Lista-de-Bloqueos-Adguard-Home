@@ -1,0 +1,11 @@
+! --- Contenido Adulto / Inapropiado ---
+||potos.com^
+
+! --- No Categorizados / Desconocidos ---
+||lalalla.com^
+
+! --------------------------------------------------
+! Lista de Bloqueo Personalizada - AdGuard Home
+! Creada el: 19 de mayo de 2026
+! Propiedad del Colegio Las Américas de Temuco
+! --------------------------------------------------
