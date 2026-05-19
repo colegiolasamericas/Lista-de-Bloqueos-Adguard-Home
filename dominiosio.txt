@@ -1,2 +1,3 @@
 ! --- Bloqueo Completo de TLD .IO ---
 ||*.io^
+||playgama.com^
